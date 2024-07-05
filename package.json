@@ -1,0 +1,14 @@
+{
+  "name": "2200460109010 ",
+  "version": "1.0.0",
+  "description": "Affordmed Campus Hiring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harsh kumar gupta",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
